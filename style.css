@@ -1,0 +1,107 @@
+header .logo{
+    border-radius: 50%;
+    text-align: justify;
+}
+header .logo{
+    width: 12%;
+    object-fit:cover;
+    object-position: 1px 1px; 
+    border: 2px solid black;
+}
+nav li{
+    display: inline;
+    margin: 10px;
+    text-align: right;
+}
+
+nav{ 
+    position: absolute;
+}
+header{
+    display: flex;
+}
+header ul{
+    position: right;
+}
+header .logo_gghj{
+    width:25%;
+    border-radius: 50%;
+    text-align: justify;
+    object-fit:cover;
+    object-position: 1px 1px; 
+    border: 2px solid black;
+}
+.william_volei{
+    width: 20%;
+}
+.seleção_de_volei{
+    width: 30%;
+}
+.basquete{
+    width: 25%;
+}
+.basquete1{
+    width: 30%;
+}
+nav{
+    text-align: right;
+    margin: 0 0 0 450px;
+}
+header{
+    position: relative;
+    top: 50%
+}    
+header{
+    background-image: linear-gradient(to right, rgb(206, 142, 69));
+    padding: 1rem;
+}
+#menu_horizontal{
+    list-style: none;
+    padding: 0;
+    background-color: rgb(219, 103, 65);
+    font-size: 40px;
+
+}
+#menu_horizontal li a{
+    color: rgb(250, 248, 248);
+    text-decoration: none;
+    padding: 5px;
+    display: inline-block;
+    transition: background .6s;
+}
+#menu_horizontal li a:hover{
+    background-color: rgb(115, 47, 7)
+}
+.texto1{
+    font-size: 40px;
+}
+header{
+    background-image: linear-gradient(to right, rgb(235, 96, 41), rgb(234, 184, 149), rgb(253, 96, 41));
+}
+body{
+    background-color: rgb(246, 215, 185);
+}
+.badminton{
+    width: 40%;
+}
+.handebol1{
+    width: 20%;
+}
+.handebol2{
+    width: 30%;
+}
+.esportes{
+    width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
